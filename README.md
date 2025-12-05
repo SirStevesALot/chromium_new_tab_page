@@ -1,9 +1,11 @@
-Save manifest.json clock.js and index.html in a folder.
+Save manifest.json clock_24.js clock_am_pm.js and index.html in a folder
 
-Open chrome://extensions/.
+Rename either the clock_24.js or clock_am_pm.js to clock.js depending on the one you wish to use
 
-Turn on Developer mode (top-right).
+Open chrome://extensions/
 
-Click Load unpacked and pick the folder.
+Turn on Developer mode (top-right)
 
-The extension will inject the extension on the new tab page.
+Click Load unpacked and pick the folder
+
+The extension will inject the extension on the new tab page
